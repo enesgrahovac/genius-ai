@@ -1,6 +1,6 @@
 # genius-ai
 
-** The purpose of this repository ** is to perform natural language processing and machine learning techniques on [Genius](https://docs.genius.com/#/getting-started-h1)'s data and API.
+*The purpose of this repository* is to perform natural language processing and machine learning techniques on [Genius](https://docs.genius.com/#/getting-started-h1)'s data and API.
 
 # Project Overview
 
